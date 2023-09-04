@@ -3,7 +3,7 @@
 
 🌐 [LinkedIn](www.linkedin.com/in/esan-daniel-995b42212)
 📧 [Email](mailto:danielseyi21@gmail.com)
-🐦 [Twitter](https://twitter.com/@esanDaniel3)
+🐦 [Twitter](https://twitter.com/@esanD)
 
 #### About Me
 
