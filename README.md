@@ -1,5 +1,5 @@
 # Hi, I am Esan 👋
-### Junior Software Engineer | 0-1 Year of Experience
+### Junior Software Engineer 
 
 🌐 [LinkedIn](www.linkedin.com/in/esan-daniel-995b42212)
 📧 [Email](mailto:danielseyi21@gmail.com)
