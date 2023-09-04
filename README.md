@@ -19,7 +19,7 @@ I am an aspiring software engineer with a strong foundation in programming and a
 
 #### Education
 
-**Bachelor of Science in Computer Science | [Landmark University] | [1st September 2022]**
+**Bachelor of Science in Computer Science | [Landmark University]**
 
 #### Projects
 
