@@ -21,13 +21,9 @@ I am an aspiring software engineer with a strong foundation in programming and a
 
 **Bachelor of Science in Computer Science | [Landmark University]**
 
-#### Projects
-
-- [Provide links to your personal or academic projects hosted on GitHub]
-- Briefly describe the projects and your contributions to them.
 
 #### Internships and Part-Time Roles
-- Gained experience in [mention specific technologies or skills you learned]
+- Gained experience in [Html and Css while interning at HConcept Nigeria]
 
 #### Interests
 
