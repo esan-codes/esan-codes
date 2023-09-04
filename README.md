@@ -1,4 +1,4 @@
-# [Hi, I am Esan]
+# Hi, I am Esan 👋
 ### Junior Software Engineer | 0-1 Year of Experience
 
 🌐 [LinkedIn](www.linkedin.com/in/esan-daniel-995b42212)
