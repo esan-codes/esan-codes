@@ -1,5 +1,5 @@
 ###                                                Hi, I am Esan 👋
-### Junior Software Engineer 
+### I am a Software Engineer with grit for problem solving 
 
 🌐 [LinkedIn](www.linkedin.com/in/esan-daniel-995b42212)
 📧 [Email](mailto:danielseyi21@gmail.com)
